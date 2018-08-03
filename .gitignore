@@ -1,1 +1,4 @@
-/bin/
+/bin/justAnGame/*.class
+.project
+.classpath
+.settings/
